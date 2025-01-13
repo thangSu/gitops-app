@@ -1,0 +1,4 @@
+
+app: 
+  image_name: vprofile/vprofileapp
+  image_tag: latest
